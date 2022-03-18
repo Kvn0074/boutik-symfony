@@ -3,12 +3,9 @@
     color: white;
 }
 
-body {
-    position: relative;
-}
 
 .footer {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
     background: #343a40;
