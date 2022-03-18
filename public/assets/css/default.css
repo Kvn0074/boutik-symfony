@@ -1,0 +1,26 @@
+.navbar-custom-item,
+.navbar-custom-link {
+    color: white;
+}
+
+body {
+    position: relative;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: #343a40;
+    color: snow;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer-text {
+    margin-bottom: 0;
+}
+
+.footer-link {
+    color: snow;
+}
